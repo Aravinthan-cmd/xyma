@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99cb2d14.css",
+    "main.js": "/static/js/main.96842245.js",
+    "static/media/Indian-Oil.png": "/static/media/Indian-Oil.e7bc36c4339ad3141abf.png",
+    "static/media/schneider-electric-logo-png-transparent.png": "/static/media/schneider-electric-logo-png-transparent.277dd5e4688891034c4f.png",
+    "static/media/ega-removebg-preview.png": "/static/media/ega-removebg-preview.2dc942e9fe01b1868f23.png",
+    "static/media/xyma_logo.png": "/static/media/xyma_logo.4e2ffa7fd8e87d8d9843.png",
+    "static/media/cumi.png": "/static/media/cumi.21ba766cebc7133b5a0e.png",
+    "static/media/vedanta_balco-removebg.png": "/static/media/vedanta_balco-removebg.8dd6964637da2baeb918.png",
+    "index.html": "/index.html",
+    "main.99cb2d14.css.map": "/static/css/main.99cb2d14.css.map",
+    "main.96842245.js.map": "/static/js/main.96842245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99cb2d14.css",
+    "static/js/main.96842245.js"
+  ]
+}
