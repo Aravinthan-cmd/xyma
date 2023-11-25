@@ -1,0 +1,129 @@
+.home {
+    width: 100%;
+    height: 100vh;
+    background-color: #2d2d2d;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+}
+.logo {
+    padding-bottom: 10px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.box {
+    position: relative;
+    width: 400px;
+    height: 160px;
+    margin: 20px;
+    background-color: rgb(242, 241, 241);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    cursor: pointer;
+}
+@media screen and (max-width:550px) {
+    .box {
+        width: 80%;
+    }
+}
+.vedanta {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.vedanta:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    scale: 1.2;
+}
+.cumi {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.cumi:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    scale: 1.2;
+}
+.ega {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ega:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    scale: 1.2;
+}
+.iocl {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.iocl:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    scale: 1.2;
+}
+.schneider {
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.schneider:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    scale: 1.2;
+}
+.unkown {
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.unkown:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    scale: 1.2;
+}
+.xyma_logo {
+    width: 20rem;
+    height: 10rem;
+}
+.vedanta_logo {
+    width: 200px;
+    height: 50px;
+}
+.cumi_logo {
+    width: 150px;
+    height: 120px;
+}
+.iocl_logo {
+    width: 160px;
+    height: 100px;
+}
+.ega_logo {
+    width: 150px;
+    height: 110px;
+}
+.schneider_logo {
+    width: 130px;
+    height: 130px;
+}
